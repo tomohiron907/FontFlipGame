@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FontFlipGame/static/css/main.13e42673.css",
+    "main.js": "/FontFlipGame/static/js/main.5a4702b8.js",
+    "static/js/453.8b15a427.chunk.js": "/FontFlipGame/static/js/453.8b15a427.chunk.js",
+    "index.html": "/FontFlipGame/index.html",
+    "main.13e42673.css.map": "/FontFlipGame/static/css/main.13e42673.css.map",
+    "main.5a4702b8.js.map": "/FontFlipGame/static/js/main.5a4702b8.js.map",
+    "453.8b15a427.chunk.js.map": "/FontFlipGame/static/js/453.8b15a427.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13e42673.css",
+    "static/js/main.5a4702b8.js"
+  ]
+}
